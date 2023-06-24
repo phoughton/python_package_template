@@ -1,4 +1,4 @@
-# python_template_lib
+# Python Template
 Use as a template for python repos.
 
 

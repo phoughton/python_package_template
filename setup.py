@@ -11,7 +11,7 @@ setuptools.setup(
     description="A myproj template",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/phoughton/python_template_lib",
+    url="https://github.com/phoughton/",
     packages=setuptools.find_packages(),
     install_requires=[
           'more-itertools',
